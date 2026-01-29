@@ -2,7 +2,7 @@
 
 **Full Stack Engineer | AI & Machine Learning Enthusiast | Passionate Problem Solver**
 
-I'm a **Full Stack Engineer** with a Bachelor degree in Computer Science graduated from the University of Baltistan, Skardu, currently working as a Full Stack Engineer at **Bluell AB**. I specialize in building scalable web and mobile applications using **Next.js, Flutter, Firebase, Prisma, and Node.js**. My passion lies in applying **AI and Machine Learning** to solve real-world problems, particularly in healthcare, security, and intelligent systems.
+**Full Stack Engineer** with over 1.5 year of experience building complete websites. I use technologies like **Next.js, React, Flutter, Node.js, and NestJS.** I build secure systems, manage databases (with Prisma and Firebase), and add **AI features**. I can handle both the **user interface** and the **server-side** to create working solutions from start to finish
 
 I'm actively seeking research or advanced learning opportunities to deepen my AI expertise and contribute to meaningful, innovative projects.
 
