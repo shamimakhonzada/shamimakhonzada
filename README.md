@@ -84,7 +84,6 @@ I'm actively seeking research or advanced learning opportunities to deepen my AI
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shamimakhonzada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Shamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamimakhonzada)](https://github.com/shamimakhonzada/github-readme-stats)
 
 ---
 
