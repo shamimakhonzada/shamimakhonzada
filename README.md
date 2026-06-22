@@ -2,7 +2,7 @@
 
 **Full Stack Engineer | AI & Machine Learning Enthusiast | Passionate Problem Solver**
 
-**Full Stack Engineer** with over 2 year of experience building complete websites. I use technologies like **Next.js, React, Flutter, Node.js, and NestJS.** I build secure systems, manage databases (with Prisma and Firebase), and add **AI features**. I can handle both the **user interface** and the **server-side** to create working solutions from start to finish
+**Full Stack Engineer** with over 1 year of experience building complete websites. I use technologies like **Next.js, React, Flutter, Node.js, and NestJS.** I build secure systems, manage databases (with Prisma and Firebase), and add **AI features**. I can handle both the **user interface** and the **server-side** to create working solutions from start to finish
 
 I'm actively seeking research or advanced learning opportunities to deepen my AI expertise and contribute to meaningful, innovative projects.
 
