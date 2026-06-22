@@ -1,23 +1,26 @@
 # Hello, I'm Muhammad Shamim Shoaib
 
-**Full Stack Engineer | AI & Machine Learning Enthusiast | Passionate Problem Solver**
+**Full Stack Developer | AI & LLM Integration | Building Scalable Web Applications**
 
-**Full Stack Engineer** with over 1 year of experience building complete websites. I use technologies like **Next.js, React, Flutter, Node.js, and NestJS.** I build secure systems, manage databases (with Prisma and Firebase), and add **AI features**. I can handle both the **user interface** and the **server-side** to create working solutions from start to finish
+Full Stack Developer with **1.5+ years of experience** building and delivering production-ready web and mobile applications. Experienced across **Next.js, React, Flutter, Node.js, NestJS, ASP.NET MVC, and TypeScript**, with hands-on work in designing responsive interfaces, developing secure APIs, managing databases, and deploying scalable solutions.
 
-I'm actively seeking research or advanced learning opportunities to deepen my AI expertise and contribute to meaningful, innovative projects.
+I enjoy building end-to-end products—from creating intuitive user experiences to architecting backend systems and integrating **AI-powered features using LLMs such as Gemini and Ollama**. My work includes recruitment platforms, fintech solutions, authentication systems, and workflow automation.
+
+Currently exploring opportunities to deepen my expertise in **AI, machine learning, and intelligent systems**, while contributing to impactful products and engineering teams.
 
 ---
 
 ## Tech Stack
 
 ### **Programming Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
