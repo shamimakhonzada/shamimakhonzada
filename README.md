@@ -122,6 +122,18 @@ Currently exploring opportunities to deepen my expertise in **AI, machine learni
 ![](https://nirzak-streak-stats.vercel.app/?user=shamimakhonzada&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimakhonzada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
+
+<img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+
+<img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
+<img height="180" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time" />
+
+</div>
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shamimakhonzada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
