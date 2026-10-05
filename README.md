@@ -2,7 +2,7 @@
 
 **Full Stack Developer | AI & LLM Integration | Building Scalable Web Applications**
 
-Full Stack Developer with **1.5+ years of experience** building and delivering production-ready web and mobile applications. Experienced across **Next.js, React, Flutter, Node.js, NestJS, ASP.NET MVC, and TypeScript**, with hands-on work in designing responsive interfaces, developing secure APIs, managing databases, and deploying scalable solutions.
+Full Stack Developer with **2+ years of experience** building and delivering production-ready web and mobile applications. Experienced across **Next.js, React, Flutter, Node.js, NestJS, ASP.NET MVC, and TypeScript**, with hands-on work in designing responsive interfaces, developing secure APIs, managing databases, and deploying scalable solutions.
 
 I enjoy building end-to-end products—from creating intuitive user experiences to architecting backend systems and integrating **AI-powered features using LLMs such as Gemini and Ollama**. My work includes recruitment platforms, fintech solutions, authentication systems, and workflow automation.
 
