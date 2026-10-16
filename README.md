@@ -91,31 +91,6 @@ Currently exploring opportunities to deepen my expertise in **AI, machine learni
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
----
-
-## Featured Projects
-
-### **Gear-Aid** – *Vehicle Maintenance App*
-> **Next.js · Flutter · Firebase · Prisma**  
-> An award-winning online mechanic service platform connecting users with available mechanics. Won recognition at the UOBS Tech Expo 2024 for innovation and practicality.
-
-### **AI Interview Platform**
-> **Next.js · Prisma · Firebase · Ollama · Gemini API**  
-> An AI-powered platform simulating real interview experiences using LLMs, featuring real-time assessment and role-based simulations.
-
-### **Lung Cancer Detection System**
-> **Python · Machine Learning · OpenCV · Scikit-learn**  
-> A medical imaging project using ML algorithms to detect lung cancer and identify disease stages for early diagnosis and treatment planning.
-
-### **E-Commerce App**
-> **Flutter · Firebase**  
-> A fully functional e-commerce app with product listings, user authentication, shopping cart, and real-time data handling.
-
-### **Twitter Sentiment Analysis**
-> **Python · NLP · Pandas · Matplotlib**  
-> A sentiment analysis tool that scrapes, processes, and classifies Twitter data to gauge public opinion on trending topics.
-
----
 
 ### **GitHub Stats:**
 <p align="center">
@@ -128,33 +103,6 @@ Currently exploring opportunities to deepen my expertise in **AI, machine learni
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=shamimakhonzada&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-<p align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimakhonzada&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamimakhonzada&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamimakhonzada&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamimakhonzada&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamimakhonzada&theme=holi&utcOffset=0)
-</p>
-
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shamimakhonzada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
----
-
-## Certifications & Awards
-
-- **Prime Minister’s Laptop Scheme Award** – Government of Pakistan (2023)
-- **Certificate of Appreciation** – Gear-Aid Project, UOBS Tech Expo 2024
-- **21st Century Skills Training** – Aga Khan Rural Support Programme (AKRSP)
-- **Microsoft Excel for Data Analysis** – Coursera
-- **Azure REST API with Node.js** – Coursera
-- **Computer Vision with Azure** – Coursera
-- **LangChain Agent Observability** – LangChain Academy
-
----
 
 
 ## Let's Connect
