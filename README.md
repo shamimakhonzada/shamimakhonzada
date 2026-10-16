@@ -129,13 +129,13 @@ Currently exploring opportunities to deepen my expertise in **AI, machine learni
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=shamimakhonzada&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<div align="center">
+<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimakhonzada&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamimakhonzada&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamimakhonzada&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamimakhonzada&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamimakhonzada&theme=holi&utcOffset=0)
-</div>
+</p>
 
 
 ## GitHub Trophies
