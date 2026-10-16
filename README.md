@@ -91,6 +91,13 @@ Currently exploring opportunities to deepen my expertise in **AI, machine learni
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
+### **Connect With Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/shamimshoaib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sshoaib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:shamim.akhonzada@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ---
 
 ## Featured Projects
@@ -118,8 +125,11 @@ Currently exploring opportunities to deepen my expertise in **AI, machine learni
 ---
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shamimakhonzada&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shamimakhonzada&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=shamimakhonzada&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=shamimakhonzada&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimakhonzada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimakhonzada&theme=holi)
